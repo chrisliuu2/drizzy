@@ -1,0 +1,46 @@
+body {
+	background-color: #F5F5DC;
+	font-family: consolas, monaco, monospace, monospace;
+}
+
+#title {
+	padding-top: 8%;
+}
+
+a {
+	color: #87CEEB;
+}
+
+#text {
+	color: #87CEEB;
+}
+
+table, th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	font-size: 20px;
+	color: #87CEEB;
+	padding: 5px;
+	border-color: #87CEEB;
+}
+
+#album {
+  border-radius: 8%;
+  border: 2px solid black;
+}
+
+#table {
+	margin-left: 33%;
+}
+
+
+.center {
+margin-left: 22%;
+width: 60%;
+padding: 20px;
+color: #87CEEB;
+}
+
+li {
+	font-size: 20px;
+}
